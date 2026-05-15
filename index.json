@@ -26,7 +26,7 @@
 
     {
       "name": "Geode",
-      "bundleIdentifier": "com.geode.ios",
+      "bundleIdentifier": "com.geode.launcher",
       "developerName": "Geode Team",
       "subtitle": "Geode for iOS",
       "localizedDescription": "Geode packaged for AltStore distribution.",
